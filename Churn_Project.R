@@ -1,8 +1,6 @@
-## Churn Data
-## IST 301
+## Churn Data Project
 ## Neel Kumtakar, Anthony Sofia, Alice Li, Connor Introna, and Micheal Bifulco
 ## 12/15/18
-## Grp2
 
 
 
